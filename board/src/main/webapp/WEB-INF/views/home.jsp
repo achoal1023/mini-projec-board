@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	미니 게시판 프로젝트입니다!  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
